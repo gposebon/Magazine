@@ -26,7 +26,7 @@ header .navbar {
   }
 
 .h-800x {
-    height: 800px;
+    height: 600px;
 }
 
 .bg-1 {
@@ -113,4 +113,30 @@ a:hover {
 
 a:visited {
     color: inherit;
+}
+
+.ptb-0 {
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+.bg-1-white {
+    background: #F8F8F8;
+}
+section {
+    padding: 50px 0;
+}
+
+.ptb-50 {
+    padding-top: 50px!important;
+    padding-bottom: 50px!important;
+}
+.pr-30 {
+    padding-right: 30px!important;
+}
+
+.mt-20 {
+    margin-top: 20px!important;
+}
+.mb-30 {
+    margin-bottom: 30px!important;
 }
